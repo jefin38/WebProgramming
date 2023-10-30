@@ -1,0 +1,42 @@
+/* 7styles.css */
+.class-selector-paragraph {
+    font-size: 18px;
+    color: #0077b6;
+    font-family: Arial, sans-serif;
+    background-color: #e6e6e6;
+}
+
+p.element-type-selector {
+    font-size: 20px;
+    color: #ff6b6b;
+    font-family: Helvetica, sans-serif;
+    background-color: #ffeb99;
+}
+
+#id-selector-paragraph {
+    font-size: 24px;
+    color: #32a852;
+    font-family: "Times New Roman", serif;
+    background-color: #a5ff90;
+}
+
+.simple-selector-paragraph {
+    font-size: 22px;
+    color: #ffa600;
+    font-family: Verdana, sans-serif;
+    background-color: #ffd9b3;
+}
+
+.pseudo-class-selector-paragraph {
+    font-size: 20px;
+    color: #a55eea;
+    font-family: "Lucida Sans Unicode", sans-serif;
+    background-color: #c2f0c2;
+}
+
+.universal-selector-paragraph {
+    font-size: 20px;
+    color: #006b90;
+    font-family: Tahoma, sans-serif;
+    background-color: #f0e1b2;
+}
